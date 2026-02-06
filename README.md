@@ -68,6 +68,18 @@ A policy issuance platform for generating **COI (Certificate of Insurance)**.
 - Backend-heavy processing logic
 
 ---
+### 🏪 Bima-Mandi
+A retail insurance distribution platform designed for **brokers**.
+
+I led the **end-to-end development**, focusing on scalability and modular architecture.
+
+**Highlights:**
+- Broker onboarding & insurer aggregation
+- Secure authentication & user management
+- Policy management dashboards
+- Multi-insurer API integrations
+
+---
 
 ### 👥 ITUS
 An employee benefits platform enabling:
@@ -99,18 +111,7 @@ A centralized insurance portal for **colleges & universities** to insure student
 
 ---
 
-### 🏪 Bima-Mandi
-A retail insurance distribution platform designed for **brokers**.
 
-I led the **end-to-end development**, focusing on scalability and modular architecture.
-
-**Highlights:**
-- Broker onboarding & insurer aggregation
-- Secure authentication & user management
-- Policy management dashboards
-- Multi-insurer API integrations
-
----
 
 ### 🛒 BuyPolicyNow
 A **B2C insurance portal** enabling customers to compare and purchase policies online.
