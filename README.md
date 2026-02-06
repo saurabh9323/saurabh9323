@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saurabh Pathak</h1>
-<h3 align="center">Full-Stack Software Engineer | Building Scalable Web Products</h3>
+<h3 align="center">Full-Stack Software Engineer | Insurance-Tech & Enterprise Systems</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/pathak-saurabh-ab8a58257/" target="_blank">
@@ -13,10 +13,11 @@
 ---
 
 ## 🚀 About Me
-I’m a **Full-Stack Software Engineer** with **2+ years of experience** building scalable, production-grade applications.  
-I’ve worked extensively on **insurance-tech platforms, CRMs, and marketplaces**, focusing on clean architecture, performance, and real-world usability.
+I’m a **Full-Stack Software Engineer** with **2+ years of hands-on experience** building **enterprise-grade insurance platforms** and scalable web applications.
 
-I enjoy turning complex business requirements into **simple, reliable software**.
+💼 **Currently working at Nivotime Pvt. Ltd.**, where I design and develop high-impact insurance solutions used by corporates, brokers, and end customers.
+
+I enjoy building **clean, modular systems**, solving real business problems, and shipping production-ready software.
 
 ---
 
@@ -33,28 +34,92 @@ I enjoy turning complex business requirements into **simple, reliable software**
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet)
 
-### Database & Tools
+### Databases & Tools
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql)
-![Redux](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat&logo=redux)
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat&logo=redux)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git)
 
 ---
 
-## 🧠 Currently Working On
-- Strengthening **DSA & problem-solving** (Abdul Bari course)
-- Building **end-to-end full-stack applications**
-- Improving **system design & backend scalability**
+## 🧠 Professional Experience & Key Projects
+
+### 🏥 HealthCross
+A health insurance quotation platform that generates **real-time quotations** for health policies.
+- Dynamic quotation engine
+- Insurer API integrations
+- Scalable backend services
 
 ---
 
-## 📌 Featured Projects
-- **BimaMandi** – Insurance policy marketplace (PolicyBazaar-like platform)
-- **Insurance CRM** – Lead management → quotation → conversion workflow
-- **Corporate Flex Solution** – Corporate insurance policy generation (Indian standards)
+### 📊 IBNR (ICICI Project)
+An expense tracking and reporting system built for **ICICI**, focusing on financial accuracy and audit-ready data.
+- Expense monitoring & analytics
+- Secure enterprise workflows
+- Performance-optimized reporting
 
-*(Repositories coming soon — building them clean & production-ready)*
+---
+
+### 📄 EDME
+A policy issuance platform for generating **COI (Certificate of Insurance)**.
+- Automated policy document generation
+- Compliance-driven workflows
+- Backend-heavy processing logic
+
+---
+
+### 👥 ITUS
+An employee benefits platform enabling:
+- Benefits enrollment & tracking
+- Claims management
+- Policy visibility across employee lifecycle
+
+---
+
+### 🏢 IBS (Enterprise Insurance Platform)
+An **enterprise-grade insurance platform** for corporate clients and employees.
+
+**Highlights:**
+- Employee enrollment workflows
+- Corporate admin portal with role-based access
+- Real-time dashboards & reports
+- Compliance & policy issuance automation
+
+---
+
+### 🎓 Yuva Suraksha Yojana
+A centralized insurance portal for **colleges & universities** to insure students at scale.
+
+**Highlights:**
+- Institute & student onboarding
+- Bulk policy issuance
+- Certificate/document generator
+- Institutional reports & analytics
+
+---
+
+### 🏪 Bima-Mandi
+A retail insurance distribution platform designed for **brokers**.
+
+I led the **end-to-end development**, focusing on scalability and modular architecture.
+
+**Highlights:**
+- Broker onboarding & insurer aggregation
+- Secure authentication & user management
+- Policy management dashboards
+- Multi-insurer API integrations
+
+---
+
+### 🛒 BuyPolicyNow
+A **B2C insurance portal** enabling customers to compare and purchase policies online.
+
+**Highlights:**
+- Multi-product policy comparison
+- Dynamic quotation engine
+- End-to-end digital purchase flow
+- Payment gateway integration & tracking
 
 ---
 
@@ -64,4 +129,4 @@ I enjoy turning complex business requirements into **simple, reliable software**
 
 ---
 
-⭐️ *I value clean code, scalable systems, and continuous learning.*
+⭐️ *I focus on building reliable systems, writing clean code, and delivering real-world impact.*
